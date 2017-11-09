@@ -1,0 +1,18 @@
+{
+  "main": "node_modules/expo/AppEntry.js",
+  "private": true,
+  "dependencies": {
+    "axios": "^0.17.0",
+    "cors": "^2.8.4",
+    "expo": "^22.0.2",
+    "my_api": "^1.0.2",
+    "native-base": "^2.3.3",
+    "react": "^16.0.0",
+    "react-native": "https://github.com/expo/react-native/archive/sdk-22.0.2.tar.gz",
+    "superagent": "^3.8.0"
+  },
+  "name": "daniel-has-swagger",
+  "version": "0.0.0",
+  "description": "Hello Expo!",
+  "author": null
+}
